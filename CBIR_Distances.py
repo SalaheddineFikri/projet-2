@@ -25,3 +25,5 @@ def distance_canberra(v1, v2):
         den = abs(v1[i]) + abs(v2[i]) + 1e-10
         s += num / den
     return s
+
+
