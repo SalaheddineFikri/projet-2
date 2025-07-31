@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+mahotas
+scikit-image
+numpy
+pandas
